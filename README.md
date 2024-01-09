@@ -5,9 +5,9 @@
 
 💻 As a Research Software Developer, I collaborate with industry experts to provide data solutions and develop user-friendly websites using React JS, Node JS, and Express. My expertise also extends to enhancing SQL databases and generating insightful reports using Python and R.
 
-🚀 Among my projects is a Python-based machine learning model developed to forecast NBA MVPs. Additionally, I am an active analyst with Badger Consulting.
+🚀 Among my projects is a Python-based machine learning model developed to forecast NBA MVPs. Additionally, I am beginning to develop an iOS app that recommends songs based on a selected playlist.
 
-🛠️ Skills: Java, Python, MATLAB, SQL, R, React JS, Node JS, Express, Assembly, Pandas, Scikit-Learn, Jupyter Notebook.
+🛠️ Current Skills: Java, Python, MATLAB, SQL, R, React JS, Node JS, Express, Assembly, Pandas, Scikit-Learn, Jupyter Notebook.
 
 🌐 I am fluent in English and conversational in Spanish.
 
