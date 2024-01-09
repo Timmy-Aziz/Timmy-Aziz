@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hi, I'm Timmy! I'm a double major in Computer Engineering, with a specialization in Machine Learning and Data Science, and Computer Science at the University of Wisconsin-Madison.
 
 💻 As a Research Software Developer, I collaborate with industry experts to provide data solutions and develop user-friendly websites using React JS, Node JS, and Express. My expertise also extends to enhancing SQL databases and generating insightful reports using Python and R.
