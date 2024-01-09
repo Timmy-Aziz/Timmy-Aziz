@@ -1,4 +1,7 @@
-👋 Hi, I'm Timmy! I'm a double major in Computer Engineering, with a specialization in Machine Learning and Data Science, and Computer Science at the University of Wisconsin-Madison.
+![github-header-image (1)](https://github.com/Timmy-Aziz/Timmy-Aziz/assets/137555813/f29b9785-585f-4f33-9f32-4995b9a88da3)
+
+
+👋 Hi, I'm Timmy! I'm a sophomore double majoring in Computer Science and Computer Engineering, with a specialization in Machine Learning and Data Science, at the University of Wisconsin-Madison.
 
 💻 As a Research Software Developer, I collaborate with industry experts to provide data solutions and develop user-friendly websites using React JS, Node JS, and Express. My expertise also extends to enhancing SQL databases and generating insightful reports using Python and R.
 
